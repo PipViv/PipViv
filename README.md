@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andres Paz</h1>
-<h3 align="center">A passionate backend developer but i also like him fontend, i from Colombia</h3>
+<h3 align="center">A passionate backend developer but i also like him fontend, i am from Colombia</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pipviv" alt="pipviv" /></a> </p>
 
